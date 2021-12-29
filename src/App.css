@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+.foto{
+  margin-top: 50px;
+}
+.alt{
+  width: auto;
+  height: 43px;
+  margin-left: 183px;
+  border: 1px solid ;
+  border-radius: 15px;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Nunito", sans-serif;
+  background-image: linear-gradient(90deg, #f8f6fa, #fcfbfd);
+}
+body {
+  padding: 0;
+  margin: 0;
+}
